@@ -108,7 +108,9 @@ Potential next steps include:
 ## 🛠️ Repository Structure
 
 ├── csvData/ # Raw and processed datasets
+
 ├── Capstone.ipynb # Jupyter Notebook containing analysis
+
 ├── README.md # Project documentation
 
 ---
